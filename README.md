@@ -12,8 +12,9 @@ Realiza un commit por cada cambio o cambios relacionados que realices en el proy
 Deberá haber un mínimo de 5 commits en 3 días distintos.
 
 Modifica el README para que queden solo:
-    - Los requerimientos específicos, incicando si se han cumplido o no. En caso de no cumplirse, añade las dificultades que has tenido.
-    - La URL del espacio web donde has colgado tu práctica.
+
+- Los requerimientos específicos, incicando si se han cumplido o no. En caso de no cumplirse, añade las dificultades que has tenido.
+- La URL del espacio web donde has colgado tu práctica.
 
 ## Requerimientos específicos
 - Crea un sitio web con las siguientes características:
