@@ -27,13 +27,17 @@ Deberá haber un mínimo de 5 commits en 3 días distintos.
 Para realizar el menú responsivo puedes ayudarte del [fichero *menu.md* que te proporciono](./menu.md).
 
 - Página de inicio:
+
     ![](./Inicio.png)
 
 - Página con listado:
+
     ![](./cervezas.png)
 
 - Formulario de contacto:
+
     ![](./contactar.png)
 
 - Vista movil:
+
     ![](./inicio_mobile.png)
