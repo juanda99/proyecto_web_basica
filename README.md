@@ -1,8 +1,8 @@
-# proyecto_web_basica
+# Proyecto Web Básica
 Práctica sobre html y css con responsive design
 
 ## Antes de empezar
-Realiza un fork de mi repositorio, así podré hacer un seguimiento de tu trabajo. 
+[Realiza un fork de mi repositorio](https://github.com/juanda99/proyecto_web_basica/) , así podré hacer un seguimiento de tu trabajo. 
 
 Descarga el proyecto de **tu repositorio** ya sea mediante **git clone <url_repo>** o descargando el zip desde GitHub
 
