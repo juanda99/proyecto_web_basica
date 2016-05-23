@@ -12,9 +12,9 @@ Realiza un commit por cada cambio o cambios relacionados que realices en el proy
 Deberá haber un mínimo de 5 commits en 3 días distintos.
 
 ## Requerimientos específicos
-- Crea un sitio web con los siguientes requisitos:
-    - Las páginas se llamarán index.html, cervezas.html y contacto.html
-    - Las páginas deben ser similares a las que te proporciono.
+- Crea un sitio web con las siguientes características:
+    - Está compuesto de 3 páginas: index.html, cervezas.html y contacto.html
+    - Las páginas deben seguir el layout que te proporciono.
     - La página inicial tendrá las últimas noticias (fichero noticias.txt)
     - La segunda página tendrá un listado de tus cervezas preferidas (fichero cervezas.json o cervezas.txt)
     - La tercera página será un formulario de contacto para añadir cervezas
