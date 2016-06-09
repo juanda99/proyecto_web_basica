@@ -33,7 +33,7 @@ Para realizar el menú responsivo puedes ayudarte del [fichero *menu.md* que te 
 
 - Página de inicio:
 
-    ![](.sources//Inicio.png)
+    ![](./sources//Inicio.png)
 
 - Página con listado:
 
