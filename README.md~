@@ -33,16 +33,16 @@ Para realizar el menú responsivo puedes ayudarte del [fichero *menu.md* que te 
 
 - Página de inicio:
 
-    ![](.sources//Inicio.png)
+    ![](./Inicio.png)
 
 - Página con listado:
 
-    ![](./sources/cervezas.png)
+    ![](./cervezas.png)
 
 - Formulario de contacto:
 
-    ![](./sources/contactar.png)
+    ![](./contactar.png)
 
 - Vista movil:
 
-    ![](./sources/inicio_mobile.png)
+    ![](./inicio_mobile.png)
