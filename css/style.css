@@ -1,0 +1,42 @@
+header,
+footer {
+  background-color: orange;
+  overflow:hidden;
+
+}
+.logo{
+  width: 60px;
+  height: auto;
+  margin: 5px;
+  float: left;
+}
+
+.menuitem {
+  display: inline-block;
+  margin: 5px;
+}
+.menulink {
+  text-decoration: none;
+}
+.menulink:hover {
+  color: white;
+}
+
+nav {
+  float: right;
+}
+
+.subtitle {
+  float:left;
+}
+
+.title {
+  margin-bottom: 0;
+}
+.subtitle {
+  margin-top: 0;
+  float:left;
+}
+.copyright {
+  text-align: center
+}
