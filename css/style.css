@@ -1,44 +1,48 @@
 header,
 footer {
-  background-color: orange;
-  overflow:hidden;
-
+    background-color: rgb(179, 255, 0);
+    overflow: hidden;
 }
-.logo{
-  width: 60px;
-  height: auto;
-  margin: 5px;
-  float: left;
+
+.logo {
+    width: 60px;
+    height: auto;
+    margin: 5px;
+    float: left;
 }
 
 .menuitem {
-  display: inline-block;
-  margin: 5px;
+    display: inline-block;
+    margin: 5px;
 }
+
 .menulink {
-  text-decoration: none;
+    text-decoration: none;
 }
+
 .menulink:hover {
-  color: white;
+    color: rgb(121, 11, 11);
 }
 
 nav {
-  float: right;
+    float: right;
 }
 
 .subtitle {
-  float:left;
+    float: left;
 }
 
 .title {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }
+
 .subtitle {
-  margin-top: 0;
-  float:left;
+    margin-top: 0;
+    float: left;
 }
+
 .copyright {
-  text-align: center
+    text-align: center
 }
 
 @media screen and (max-width: 700px) {
@@ -47,34 +51,41 @@ nav {
         top: 25px;
         right: 15px;
     }
-    .menu, .subtitle {display: none;}
+    .menu,
+    .subtitle {
+        display: none;
+    }
 }
 
 @media screen and (min-width: 701px) {
     .btnmenu {
         display: none;
     }
-    #menu, #subtitle {display: block !important;}
+    #menu,
+    #subtitle {
+        display: block !important;
+    }
 }
-
 
 .container {
-  margin: 0 5px;
+    margin: 0 5px;
 }
+
 @media screen and (min-width:701px) {
-  .container {
-    width: 690px;
-    margin: 0 auto;
-  }
+    .container {
+        width: 690px;
+        margin: 0 auto;
+    }
 }
+
 @media screen and (min-width:1001px) {
-  .container {
-    width: 990px;
-  }
+    .container {
+        width: 990px;
+    }
 }
 
 @media screen and (min-width:1201px) {
-  .container {
-    width: 1190px;
-  }
+    .container {
+        width: 1190px;
+    }
 }
