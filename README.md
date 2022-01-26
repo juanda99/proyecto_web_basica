@@ -45,3 +45,4 @@ Modifica el README para que queden solo:
 - Vista movil:
 
     ![](./sources/inicio_mobile.png)
+MODIFICANDO EL README.md por MARISA MIGUEL ARNAL 
